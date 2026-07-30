@@ -396,6 +396,11 @@ interface Config {
    * Enable PWA
    */
   enablePWA?: boolean;
+
+  /**
+   * About section content (HTML)
+   */
+  about?: string;
 }
 
 declare const CONFIG: Config;
