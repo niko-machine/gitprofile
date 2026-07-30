@@ -24,8 +24,8 @@ const CONFIG = {
       header: 'Live Demos',
       projects: [
         {
-          title: 'Gender Reveal',
-          description: 'A gender reveal party game',
+          title: 'Gender & Society: J.O.J.O Blog',
+          description: 'A blog exploring gender and society',
           imageUrl: 'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://gender-reveal-hval.onrender.com/',
         },
