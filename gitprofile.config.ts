@@ -17,7 +17,7 @@ const CONFIG = {
         },
       },
       manual: {
-        projects: ['marialijandra/Library-Management-System', 'niko-machine/azazels-explorer-android'],
+        projects: ['marialijandra/Library-Management-System', 'niko-machine/azazels-explorer-android', 'realelbowmacaroni/spark-research-idea-generator', 'realelbowmacaroni/gender-reveal', 'niko-machine/sdg13-web'],
       },
     },
     external: {
