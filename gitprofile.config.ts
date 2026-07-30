@@ -57,7 +57,7 @@ const CONFIG = {
     stackoverflow: '',
     discord: '',
     telegram: '',
-    website: '',
+    website: 'https://drive.google.com/drive/folders/1UURz3tDu864OCLP4jPKviTts5z8IL5er?usp=sharing',
     phone: '',
     email: '',
   },
