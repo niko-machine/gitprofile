@@ -7,7 +7,7 @@ const CONFIG = {
     github: {
       display: true,
       header: 'Github Projects',
-      mode: 'automatic',
+      mode: 'manual',
       automatic: {
         sortBy: 'stars',
         limit: 8,
@@ -17,7 +17,7 @@ const CONFIG = {
         },
       },
       manual: {
-        projects: [],
+        projects: ['marialijandra/Library-Management-System', 'niko-machine/azazels-explorer-android'],
       },
     },
     external: {
@@ -60,6 +60,9 @@ const CONFIG = {
     'Java',
     'JavaEE',
     'Android',
+    'C++',
+    'C#',
+    'GDScript',
     'Git',
     'CSS',
     'Tailwind',
