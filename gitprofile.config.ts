@@ -21,8 +21,21 @@ const CONFIG = {
       },
     },
     external: {
-      header: 'My Projects',
-      projects: [],
+      header: 'Live Demos',
+      projects: [
+        {
+          title: 'Gender Reveal',
+          description: 'A gender reveal party game',
+          imageUrl: 'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          link: 'https://gender-reveal-hval.onrender.com/',
+        },
+        {
+          title: 'Spark Research Idea Generator',
+          description: 'Research idea generation tool',
+          imageUrl: 'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          link: 'https://spark-frontend-y1mu.onrender.com',
+        },
+      ],
     },
   },
   seo: { title: 'Portfolio of Renuel Gonzalves', description: '', imageURL: '' },
