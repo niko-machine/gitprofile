@@ -35,6 +35,12 @@ const CONFIG = {
           imageUrl: 'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://spark-frontend-y1mu.onrender.com',
         },
+        {
+          title: 'SDG 13 Climate Action',
+          description: 'Website about climate action',
+          imageUrl: 'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          link: 'https://shiny-rugelach-38e253.netlify.app/',
+        },
       ],
     },
   },
